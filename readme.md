@@ -9,6 +9,6 @@ b. perform three commits with three different messages,
 c. add a remote repo (can be a dummy one)
 	git remote add repo https://github.com/vikychoi/comp3111_lab2.git 
 d. checkout the first commit
-	git check 
+	git check 	ef4e9e12c
 e. checkout the last commit
-	git check
+	git checkout 2bfe513	/	git checkout master
